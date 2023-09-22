@@ -1,0 +1,15 @@
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\3-Composite\bin\Debug\net6.0\3-Composite.exe
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\3-Composite\bin\Debug\net6.0\3-Composite.deps.json
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\3-Composite\bin\Debug\net6.0\3-Composite.runtimeconfig.json
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\3-Composite\bin\Debug\net6.0\3-Composite.dll
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\3-Composite\bin\Debug\net6.0\3-Composite.pdb
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\3-Composite\obj\Debug\net6.0\3-Composite.csproj.AssemblyReference.cache
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\3-Composite\obj\Debug\net6.0\3-Composite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\3-Composite\obj\Debug\net6.0\3-Composite.AssemblyInfoInputs.cache
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\3-Composite\obj\Debug\net6.0\3-Composite.AssemblyInfo.cs
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\3-Composite\obj\Debug\net6.0\3-Composite.csproj.CoreCompileInputs.cache
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\3-Composite\obj\Debug\net6.0\3-Composite.dll
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\3-Composite\obj\Debug\net6.0\refint\3-Composite.dll
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\3-Composite\obj\Debug\net6.0\3-Composite.pdb
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\3-Composite\obj\Debug\net6.0\3-Composite.genruntimeconfig.cache
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\3-Composite\obj\Debug\net6.0\ref\3-Composite.dll
